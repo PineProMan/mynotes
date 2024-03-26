@@ -165,3 +165,20 @@ button {
   cursor: pointer;
 }
 
+#switchContainer {
+  margin-left: 90%;
+  display: flex;
+  justify-content: right;
+  background-color: #535bf2;
+  width: 80px;
+  height: 40px;
+  box-shadow: inset 0px 5px 15px rgba(0, 0, 0, 0.4), inset 0px -5px 15px rgba(255, 255, 255, 0.4) ;
+}
+
+#checkbox {
+  display: block;
+}
+
+#switch {
+  background-color: #535bf2;
+}
