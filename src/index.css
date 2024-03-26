@@ -126,7 +126,7 @@ button {
   display: flex;
   flex-direction: column;
   height: 300px;
-  width: 20vw;
+  width: 300px;
   border: #babdff solid 2px;
   overflow: scroll;
   scrollbar-width: thin;
